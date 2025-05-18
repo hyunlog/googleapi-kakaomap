@@ -21,6 +21,6 @@ kakaomap : .env -> KAKAO_REST_API_KEY
 
 ---
 
-[구글스프레드시트 API DOCS](https://developers.google.com/workspace/sheets/api/reference/rest/v4/spreadsheets.values/append?hl=ko)
-[구글스프레드시트 API키 생성](https://wise-office-worker.tistory.com/67)
+[구글스프레드시트 API DOCS](https://developers.google.com/workspace/sheets/api/reference/rest/v4/spreadsheets.values/append?hl=ko) <br>
+[구글스프레드시트 API키 생성](https://wise-office-worker.tistory.com/67) <br>
 [카카오 API DOCS](https://developers.kakao.com/docs/latest/ko/local/dev-guide)
